@@ -1,0 +1,10 @@
+.msg-wrapper {
+    background: #4d4d4d;
+    width: inherit;
+    padding: 10px;
+}
+@media (min-width: 640px) {
+    .msg-wrapper {
+        width: 50vw;
+    }
+}
